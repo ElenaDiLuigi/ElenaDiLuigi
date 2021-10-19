@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElenaDiLuigi
 - 👀 I’m interested in green eletronics reserches and videogames.
 - 🌱 I’m currently learning Java, Matlab and Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects like "Eletronicos Fantasticos"
 - 📫 How to reach me ...
 
 <!---
