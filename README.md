@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Elena</h1>
 <h3 align="center">Eletronic Engineer student</h3>
-<img align="right" alt="Eletronic" width="400" src="https://altagram.com/wp-content/uploads/2019/11/Boolean-Sensitivity_2880x1620_Lede.gif">
+<img align="right" alt="Eletronic" width="400" src="https://i.pinimg.com/originals/ab/45/bb/ab45bb4451536652faca51ae4f42d5dd.gif">
 
 - 🌱 I’m currently learning **Python, Matlab, Java**
 - 👀 I’m interested in green eletronics reserches, videogames and sound design.
