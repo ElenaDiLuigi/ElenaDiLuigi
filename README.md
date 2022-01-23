@@ -2,9 +2,9 @@
 
 ### I'm a Univesity Student
 - 👋 Hi, I’m @ElenaDiLuigi
-- 👀 I’m interested in green eletronics reserches and videogames.
+- 👀 I’m interested in green eletronics reserches, videogames and maybe sound design.
 - 🌱 I’m currently learning Java, Matlab and Python.
-- 💞️ I’m looking to collaborate on projects like "Eletronicos Fantasticos" (here you are an example video: https://www.youtube.com/watch?v=UN3wvDLG1OQ) and maybe in some games'mods
+- 💞️ 2022 Golas: create a project like "Eletronicos Fantasticos" (here you are an example video: https://www.youtube.com/watch?v=UN3wvDLG1OQ).
 - 📫 How to reach me on LINKEDIN https://www.linkedin.com/in/elena-di-luigi-b124b7221/
 
 ### Connect with me
