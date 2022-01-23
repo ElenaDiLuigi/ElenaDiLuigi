@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Elena</h1>
 <h3 align="center">Eletronic Engineer student</h3>
-<img align="right" alt="Eletronic" width="400" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
+<img align="right" alt="Eletronic" width="300" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
 
 - 🌱 I’m currently learning **Python, Matlab, Java**
 - 👀 I’m interested in green eletronics reserches, videogames and sound design.
