@@ -11,6 +11,7 @@
 <img align="right" alt="Eletronic" width="180" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
 
 <ul>
+  <li>She/her,  <i>Italy</i></li>
   <li>📚 I'm attending a bachelor degree in Electronic Engineering at <a href="https://www.univpm.it/Entra/">UnivPM</a></li>
   <li>🌱 I’m currently learning <b>Python, Matlab, Java</b></li>
   <li>👀 I’m interested in green eletronics reserches, videogames and sound design.</li>
@@ -26,7 +27,7 @@
 
 <h3 align="left">Github Stats</h3>
 <hr></hr>&nbsp;
-<p><img align="left" style="width:48%" src="https://github-readme-stats.vercel.app/api?username=elenadiluigi&show_icons=true&locale=en" alt="elenadiluigi" /> <img align="right" style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=elenadiluigi&" alt="elenadiluigi" /></p>
+<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=elenadiluigi&show_icons=true&locale=en" alt="elenadiluigi" /> <img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=elenadiluigi&" alt="elenadiluigi" /></p>
 
 <!---
 ElenaDiLuigi/ElenaDiLuigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
