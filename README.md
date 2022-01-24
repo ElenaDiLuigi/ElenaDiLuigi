@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/elena-di-luigi-b124b7221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elena di luigi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" style="color:violet">My info</h3>
+<h3 align="left" style="color:blue">My info</h3>
 <hr></hr>
 <img align="right" alt="Eletronic" width="180" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
 
