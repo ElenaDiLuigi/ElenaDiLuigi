@@ -3,11 +3,11 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/elena-di-luigi-b124b7221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elena di luigi" height="30" width="40" /></a>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
 </p>
 
-<h3 align="left" style="">My info</h3>
-<hr></hr>
+## My info
+
 <img align="right" alt="Eletronic" width="180" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
 
 <ul>
@@ -20,8 +20,7 @@
 </ul>
 &nbsp&nbsp
 
-<h3 align="left">Languages and Tools</h3>
-<hr></hr>
+## Languages and Tools 
 
 **Previously worked with:**
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -34,8 +33,8 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 &nbsp&nbsp
 
-<h3 align="left">Github Stats</h3>
-<hr></hr>&nbsp;
+## Github Stats
+  
 <p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=elenadiluigi&show_icons=true&locale=en" alt="elenadiluigi" /> <img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=elenadiluigi&" alt="elenadiluigi" /></p>
 
 <!---
