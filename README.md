@@ -3,10 +3,10 @@
 <img align="right" alt="Eletronic" width="180" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
 I am Elena Di Luigi, an italian student attending a bachelor degree in Electronic Engineering at UnivPM 💻 🔌 📚
 <ul>
-  <li>🌱 I’m currently learning **Python, Matlab, Java**</li>
+  <li>🌱 I’m currently learning <b>Python, Matlab, Java</b></li>
   <li>👀 I’m interested in green eletronics reserches, videogames and sound design.</li>
-  <li>💞️ **2022 Goal**: create a project like "Eletronicos Fantasticos" (here you are an example video: https://www.youtube.com/watch?v=UN3wvDLG1OQ). </li>
-  <li>📫 How to reach me **diluigielena.work@outlook.com**</li>
+  <li>💞️ <b>2022 Goal</b>: create a project like "Eletronicos Fantasticos" (here you are an example video: https://www.youtube.com/watch?v=UN3wvDLG1OQ). </li>
+  <li>📫 How to reach me <b>diluigielena.work@outlook.com</b></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
