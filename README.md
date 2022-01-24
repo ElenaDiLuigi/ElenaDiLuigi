@@ -5,8 +5,8 @@ I am Elena Di Luigi, an italian student attending a bachelor degree in Electroni
 <ul>
   <li>🌱 I’m currently learning **Python, Matlab, Java**</li>
   <li>👀 I’m interested in green eletronics reserches, videogames and sound design.</li>
-  <li>💞️ 2022 Goal: create a project like "Eletronicos Fantasticos" (here you are an example video: https://www.youtube.com/watch?v=UN3wvDLG1OQ). </li>
-  <li>📫 How to reach me **diluigielena.work@outlook.com** </li>
+  <li>💞️ **2022 Goal**: create a project like "Eletronicos Fantasticos" (here you are an example video: https://www.youtube.com/watch?v=UN3wvDLG1OQ). </li>
+  <li>📫 How to reach me **diluigielena.work@outlook.com**</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
