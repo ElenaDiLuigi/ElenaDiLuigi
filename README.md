@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Elena</h1>
-<h3 align="center">Eletronic Engineer student</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I am Elena Di Luigi, an italian student attending a bachelor degree in Electronic Engineering at UnivPM 💻 🔌 📚</h3>
 <img align="right" alt="Eletronic" width="180" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
-I am Elena Di Luigi, an italian student attending a bachelor degree in Electronic Engineering at UnivPM 💻 🔌 📚
+
 <ul>
   <li>🌱 I’m currently learning <b>Python, Matlab, Java</b></li>
   <li>👀 I’m interested in green eletronics reserches, videogames and sound design.</li>
