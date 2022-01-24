@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.canva.com/design/DAE2ZsSJvlE/sTIJlBq_Hub-Z0RCo6-QVQ/view?utm_content=DAE2ZsSJvlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" align="center" alt="Welcome" title="Welcome"/>
+<img src="https://github.com/ElenaDiLuigi/ElenaDiLuigi/blob/main/GITHUB%20%40ElenaDiLuigi%20(1).png" align="center" alt="Welcome" title="Welcome"/>
 </p>
 
 
