@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elena</h1>
-<h3 align="center">Electronic Engineer student at UnivPM</h3>
+<h3 align="center">Student</h3>
 
 
 <p align="center">
@@ -11,11 +11,11 @@
 <img align="right" alt="Eletronic" width="180" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
 
 <ul>
-  <li>📚 I'm attending a bacherol degree in Eletronic Engineer at UnivPM</li>
+  <li>📚 I'm attending a bachelor degree in Electronic Engineer at UnivPM</li>
   <li>🌱 I’m currently learning <b>Python, Matlab, Java</b></li>
   <li>👀 I’m interested in green eletronics reserches, videogames and sound design.</li>
-  <li>💞️ <b>2022 Goal</b>: create a project like "Eletronicos Fantasticos" (here you are an example video: https://www.youtube.com/watch?v=UN3wvDLG1OQ). </li>
-  <li>📫 How to reach me <b>diluigielena.work@outlook.com</b></li>
+  <li>💞️ <b>2022 Goal</b>: create a project like "Eletronicos Fantasticos"(https://www.youtube.com/watch?v=UN3wvDLG1OQ). </li>
+  <li>📫 How to reach me: <b>diluigielena.work@outlook.com</b></li>
 </ul>
 &nbsp&nbsp
 
