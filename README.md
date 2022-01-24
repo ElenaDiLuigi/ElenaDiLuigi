@@ -5,7 +5,8 @@
 
 
 <p align="left">
-<img src="www.linkedin.com/in/ElenaDiLuigi" height="40em" align="center" alt="Follow Elena Di Luigi on LinkedIn" title="Follow Elena Di Luigi on LinkedIn"/>
+<a href="www.linkedin.com/in/ElenaDiLuigi
+"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Elena Di Luigi on LinkedIn" title="Follow Elena Di Luigi on LinkedIn"/></a>
 </p>
 
 ## My info
