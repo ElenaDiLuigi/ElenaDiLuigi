@@ -12,11 +12,11 @@
 
 <ul>
   <li>🍕 From <i>Italy</i></li>
-  <li>📚 I'm attending a bachelor degree in Electronic Engineering at <a href="https://www.univpm.it/Entra/">UnivPM</a> ;</li>
-  <li>🌱 I’m currently learning <b>Python, Matlab, Java</b> ;</li>
-  <li>👀 I’m interested in green eletronics reserches, videogames and sound design;</li>
-  <li>💞️ <b>2022 Goal</b>: create a project like <a href="https://www.youtube.com/c/ELECTRONICOSFANTASTICOS_YT">Eletronicos Fantasticos</a>; </li>
-  <li>📫 How to reach me: <b>diluigielena.work@outlook.com</b>;</li>
+  <li>📚 I'm attending a bachelor degree in Electronic Engineering at <a href="https://www.univpm.it/Entra/">UnivPM</a>.</li>
+  <li>🌱 I’m currently learning <b>Python, Matlab, Java</b>.</li>
+  <li>👀 I’m interested in green eletronics reserches, videogames and sound design.</li>
+  <li>💞️ <b>2022 Goal</b>: create a project like <a href="https://www.youtube.com/c/ELECTRONICOSFANTASTICOS_YT">Eletronicos Fantasticos</a>. </li>
+  <li>📫 How to reach me: <b>diluigielena.work@outlook.com</b>.</li>
 </ul>
 &nbsp&nbsp
 
