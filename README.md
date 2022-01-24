@@ -11,7 +11,7 @@
 <img align="right" alt="Eletronic" width="180" src="https://i.pinimg.com/originals/4e/a4/c3/4ea4c3b019d1c8f2daeab4288a5ad430.gif">
 
 <ul>
-  <li>🍕From <i>Italy</i></li>
+  <li>🍕 From <i>Italy</i></li>
   <li>📚 I'm attending a bachelor degree in Electronic Engineering at <a href="https://www.univpm.it/Entra/">UnivPM</a></li>
   <li>🌱 I’m currently learning <b>Python, Matlab, Java</b></li>
   <li>👀 I’m interested in green eletronics reserches, videogames and sound design.</li>
