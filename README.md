@@ -1,9 +1,11 @@
-<h1 align="center">Welcome</h1>
-<h3 align="center">I'm Elena</h3>
-
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>
+<img src="https://www.canva.com/design/DAE2ZsSJvlE/sTIJlBq_Hub-Z0RCo6-QVQ/view?utm_content=DAE2ZsSJvlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" align="center" alt="Welcome" title="Welcome"/>
+</p>
+
+
+
+<p align="left">
+<img src="www.linkedin.com/in/ElenaDiLuigi" height="40em" align="center" alt="Follow Elena Di Luigi on LinkedIn" title="Follow Elena Di Luigi on LinkedIn"/>
 </p>
 
 ## My info
