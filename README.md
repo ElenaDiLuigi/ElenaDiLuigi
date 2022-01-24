@@ -26,9 +26,9 @@
 
 <h3 align="left">Github Stats</h3>
 <hr></hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elenadiluigi&show_icons=true&locale=en" alt="elenadiluigi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elenadiluigi&show_icons=true&locale=en" alt="elenadiluigi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elenadiluigi&" alt="elenadiluigi" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elenadiluigi&" alt="elenadiluigi" /></p>
 
 <!---
 ElenaDiLuigi/ElenaDiLuigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
